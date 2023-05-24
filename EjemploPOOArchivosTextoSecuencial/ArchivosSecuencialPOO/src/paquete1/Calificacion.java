@@ -10,6 +10,7 @@ public class Calificacion{
     private double nota;
     private String nombreMateria;
     private Profesor profesor;
+        
 
     public Calificacion(double n, String nombre) {
         nota = n;
